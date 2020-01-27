@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\obj\Debug\netcoreapp3.0\trabajo1_part2.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\obj\Debug\netcoreapp3.0\trabajo1_part2.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\obj\Debug\netcoreapp3.0\trabajo1_part2.AssemblyInfo.cs
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\bin\Debug\netcoreapp3.0\trabajo1_part2.exe
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\bin\Debug\netcoreapp3.0\trabajo1_part2.deps.json
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\bin\Debug\netcoreapp3.0\trabajo1_part2.runtimeconfig.json
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\bin\Debug\netcoreapp3.0\trabajo1_part2.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\bin\Debug\netcoreapp3.0\trabajo1_part2.dll
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\bin\Debug\netcoreapp3.0\trabajo1_part2.pdb
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\obj\Debug\netcoreapp3.0\trabajo1_part2.dll
+C:\Users\alumno\Desktop\164137\clase_1\practica2\trabajo1_part2\obj\Debug\netcoreapp3.0\trabajo1_part2.pdb
