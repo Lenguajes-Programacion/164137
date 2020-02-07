@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\obj\Debug\netcoreapp3.0\trabajoclase4.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\obj\Debug\netcoreapp3.0\trabajoclase4.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\obj\Debug\netcoreapp3.0\trabajoclase4.AssemblyInfo.cs
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\bin\Debug\netcoreapp3.0\trabajoclase4.exe
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\bin\Debug\netcoreapp3.0\trabajoclase4.deps.json
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\bin\Debug\netcoreapp3.0\trabajoclase4.runtimeconfig.json
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\bin\Debug\netcoreapp3.0\trabajoclase4.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\bin\Debug\netcoreapp3.0\trabajoclase4.dll
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\bin\Debug\netcoreapp3.0\trabajoclase4.pdb
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\obj\Debug\netcoreapp3.0\trabajoclase4.dll
+C:\Users\alumno\Desktop\164137\trabajoclase4\trabajoclase4\obj\Debug\netcoreapp3.0\trabajoclase4.pdb
